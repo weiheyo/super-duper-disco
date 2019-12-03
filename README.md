@@ -1,2 +1,5 @@
 # super-duper-disco
-hi i'm super-duper-disco's master's copy!
+there's no hi now.
+i'm super-duper-disco's master's copy!
+i need some changes.
+i do need it.
